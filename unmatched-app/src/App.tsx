@@ -8,14 +8,14 @@ import Header from './Header';
 const App = () => {
   return (
     <main className='wrapper'>
-      <Header/>
+      <Header />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/game" element={<Game />} />
-        <Route path="/profile" element={<Profile />} />
+        <Route path='/' element={<Home />} />
+        <Route path='/game' element={<Game />} />
+        <Route path='/profile' element={<Profile />} />
       </Routes>
     </main>
   );
-}
+};
 
 export default App;

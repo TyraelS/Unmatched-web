@@ -33,3 +33,14 @@ code {
   background-color: var(--main-bg-color);
   color: white;
 }
+
+.header a {
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 1.5rem;
+  transition: all ease 0.3s;
+}
+
+.header a:hover {
+  color: #c5c5c5;
+}
