@@ -27,3 +27,5 @@ This project is built using the following technologies:
 - [MongoDB](https://www.mongodb.com/): A document-oriented NoSQL database used for high volume data storage.
 - [Mongoose](https://mongoosejs.com/): An Object Data Modeling (ODM) library for MongoDB and Node.js.
 - [Redis](https://redis.io/): An open source (BSD licensed), in-memory data structure store, used as a database, cache, and message broker.
+
+## =>
